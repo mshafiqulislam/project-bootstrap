@@ -1,0 +1,46 @@
+/*extra small devices (portrait phones, less than 576px)*/
+@media(max-width: 575.98px){
+
+
+}
+
+/*small devices(lanscap phones, 576 and up)*/
+@media(min-width: 576px)and(max-width: 767.98px){
+
+	.features{
+		padding-top: 60px;
+		padding-bottom: 80px;
+	}
+	.c-h1{
+		font-size: 28px;
+		margin-bottom: 10px;
+	}
+	.c-p{
+		font-size: 18px;
+	}
+	.m-t-60{
+		margin-top: 60px;
+	}
+	.s-text{
+		text-align: center;
+	}
+	.s-text h2{
+		font-size: 20px;
+        margin-top: 5px;
+        margin-bottom: 1opx;
+	}
+}
+
+/*medium devices( tablets, 768px and up)*/
+@media(min-width: 768px)and(max-width: 991.98px){
+
+
+}
+/*large devices(desktop 992px and up)*/
+@media(min-width: 992px)and(max-width: 1199.98){
+
+
+}
+
+/*extra large devices(large desktoe 12px and uo*)*/
+@media(min-width: 1200px)
